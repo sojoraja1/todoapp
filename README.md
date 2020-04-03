@@ -11,7 +11,7 @@ TodoApp is a simple app made with flutter.
 
 ## what you can do 
 ```bash
- *You can add/delete/update/read todos along with date of creation
+ *You can add/delete/update/read todos
 ```
 
 
